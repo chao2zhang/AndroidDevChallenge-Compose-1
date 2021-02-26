@@ -18,7 +18,7 @@ package com.example.androiddevchallenge.ui.theme
 import androidx.compose.ui.graphics.Color
 
 val red = Color(0xFFC00A30)
-val orange = Color(0xFF06119)
+val orange = Color(0xFFF06119)
 val redVariant = Color(0xFFBD2C25)
 val darkRed = Color(0xFF520414)
 val darkOrange = Color(0xFF6C2C0B)
